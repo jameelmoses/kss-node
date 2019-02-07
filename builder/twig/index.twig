@@ -146,15 +146,11 @@
             {% for color in section.colors %}
               <li>
                 <figure class="kss-color">
-                  <div class="kss-color-figure" style="background-color:{{ color.color }}"></div>
+                  <div class="kss-color-figure" style="background-color:{{ color.hex }}"></div>
                   <figcaption class="kss-color-caption">
-                    {% if color.name %}
-                      <strong class="kss-color-name">{{ color.name }}</strong>
-                    {% endif %}
-                    <code class="kss-color-code">{{ color.color }}</code>
-                    {% if color.description %}
-                      <p class="kss-color-desc">{{ color.description }}</p>
-                    {% endif %}
+                    <strong class="kss-color-name">{{ color.name }}</strong>
+                    <code class="kss-color-code">{{ color.hex }}</code>
+                    <p class="kss-color-desc">{{ color.sass }}</p>
                   </figcaption>
                 </figure>
               </li>
