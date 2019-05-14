@@ -32,7 +32,7 @@
   "license": "(MIT OR GPL-2.0)",
   "dependencies": {
     "bluebird": "^3.5.4",
-    "colorable": "https://github.com/jameelmoses/colorable.git",
+    "is-contrast-checker": "^1.0.0",
     "fs-extra": "^8.0.1",
     "glob": "^7.1.4",
     "handlebars": "^4.1.2",

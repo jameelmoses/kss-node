@@ -486,7 +486,7 @@ color@^0.7.3:
 
 "colorable@https://github.com/jameelmoses/colorable.git":
   version "1.0.5"
-  resolved "https://github.com/jameelmoses/colorable.git#3a120c5aee5921872390abce7d38b6478b5e6d65"
+  resolved "https://github.com/jameelmoses/colorable.git#eb4af11fc1b3fd9529342cf49e6b3292cf24251e"
   dependencies:
     color "^0.7.3"
     lodash "^3.1.0"
