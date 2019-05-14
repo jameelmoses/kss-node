@@ -1439,13 +1439,12 @@ is-callable@^1.1.4:
   resolved "https://registry.yarnpkg.com/is-callable/-/is-callable-1.1.4.tgz#1e1adf219e1eeb684d691f9d6a05ff0d30a24d75"
   integrity sha512-r5p9sxJjYnArLjObpjA4xu5EKI3CuKHkJXMhT7kwbpUyIFD1n5PMAsoPvWnvtZiNz7LjkYDRZhd7FlI0eMijEA==
 
-is-contrast-checker@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/is-contrast-checker/-/is-contrast-checker-1.0.2.tgz#9fa0123a649766dd3899cc063bdc745abf6325c2"
-  integrity sha512-aaQZP0Dz3mQCH47MSnFnXwgeKTUg7fJdr/YpqDNAYDB0lFizp7JFFrsZvABQZ/gzinMLWqQeuJBaQF4gOT06pA==
+is-contrast-checker@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/is-contrast-checker/-/is-contrast-checker-1.0.3.tgz#612d1122678ca45e97a8e2604f855c5675065d7e"
+  integrity sha512-ziPtpLukwCFIKHYQOPHTAVH06i0EcSO2yRcVR/i88AByFQt15Drwobq+OqtG9ryb6coQficcOjWMokt9dF60Jw==
   dependencies:
     color "^3.1.1"
-    lodash "^4.17.11"
 
 is-data-descriptor@^0.1.4:
   version "0.1.4"

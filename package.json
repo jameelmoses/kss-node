@@ -36,7 +36,7 @@
     "glob": "^7.1.4",
     "handlebars": "^4.1.2",
     "highlight.js": "^9.15.6",
-    "is-contrast-checker": "^1.0.2",
+    "is-contrast-checker": "^1.0.3",
     "markdown-it": "^8.4.1",
     "nunjucks": "^3.2.0",
     "resolve": "^1.10.1",
