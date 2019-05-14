@@ -1439,10 +1439,10 @@ is-callable@^1.1.4:
   resolved "https://registry.yarnpkg.com/is-callable/-/is-callable-1.1.4.tgz#1e1adf219e1eeb684d691f9d6a05ff0d30a24d75"
   integrity sha512-r5p9sxJjYnArLjObpjA4xu5EKI3CuKHkJXMhT7kwbpUyIFD1n5PMAsoPvWnvtZiNz7LjkYDRZhd7FlI0eMijEA==
 
-is-contrast-checker@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/is-contrast-checker/-/is-contrast-checker-1.0.4.tgz#be23d8e262a8760a91884c6c871ed80661119435"
-  integrity sha512-soRTj0QwpMrWHSyCIdDLmy+Onm3Z8cUNWNwEPvP5yLNt6kJrae38ClWzii6vdsz0MK0LWlIoMlJtAJkbITrF6Q==
+is-contrast-checker@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/is-contrast-checker/-/is-contrast-checker-1.0.5.tgz#591745df00dae42b487a20df9f3a442dd226de15"
+  integrity sha512-nazCXnpg4ptES7xGHCf5YACE8LQUzf85+/cgjdWANgg5GzgYjVLkdcERX/n1cQECUcpJ0FDlUHAjWgAaueMgvg==
   dependencies:
     color "^3.1.1"
 
