@@ -80,6 +80,7 @@ describe('KssStyleGuide object API', function() {
             colors: [],
             contrast: [],
             icons: [],
+            svgIcons: [],
             modifiers: [],
             parameters: [],
             reference: '1.1',
